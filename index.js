@@ -1,7 +1,5 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
-//todo array = 
-//function = 
-//operations = 
 let todos = ["Asjad", "Mahad"];
 async function createTodo(todo) {
     do {
